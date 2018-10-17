@@ -1,0 +1,3 @@
+Here is a test of connection with sourcetree.
+I changed the sourcetree git "emmbedded " to use the system installed "git".
+This fixed the problem. 
